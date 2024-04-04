@@ -5,6 +5,14 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
+  {
+    "barrett-ruth/live-server.nvim",
+    build = "yarn global add live-server",
+    event = "User AstroFile",
+    config = true,
+  },
+  { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.lua" },
   -- this color scheme
   { import = "astrocommunity.colorscheme.nordic-nvim" },
