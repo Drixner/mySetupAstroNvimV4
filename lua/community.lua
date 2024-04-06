@@ -11,6 +11,7 @@ return {
     cmd = { "LiveServerStart", "LiveServerStop" },
     config = true,
   },
+  { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.programming-language-support.web-tools-nvim" },
   { import = "astrocommunity.editing-support.ultimate-autopair-nvim" },
   { import = "astrocommunity.editing-support.vim-visual-multi" },
