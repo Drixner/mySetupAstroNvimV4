@@ -1,0 +1,27 @@
+{
+  "Clase Básica en JavaScript": {
+    "prefix": "clasesimple",
+    "body": [
+      "class $1 {",
+      "  constructor(parametro1, parametro2) {",
+      "    this.propiedad1 = parametro1;",
+      "    this.propiedad2 = parametro2;",
+      "  }",
+      "",
+      "  metodo1() {",
+      "    // Código del método 1",
+      "  }",
+      "",
+      "  metodo2() {",
+      "    // Código del método 2",
+      "  }",
+      "}",
+      "",
+      "// Ejemplo de uso:",
+      "const instancia = new MiClase(valor1, valor2);",
+      "instancia.metodo1();",
+      "instancia.metodo2();"
+    ],
+    "description": "Snippet de una clase básica en JavaScript"
+  }
+}
