@@ -25,6 +25,7 @@ return {
   { import = "astrocommunity.color.vim-highlighter" },
   { import = "astrocommunity.color.modes-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
+  { import = "astrocommunity.indent.indent-blankline-nvim" },
   -- { import = "astrocommunity.completion.codeium-vim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
 
