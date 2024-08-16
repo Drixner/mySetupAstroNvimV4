@@ -20,6 +20,8 @@ return {
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.completion.cmp-cmdline" },
+  { import = "astrocommunity.motion.mini-bracketed" },
+  { import = "astrocommunity.motion.nvim-surround" },
   -- this color scheme
   { import = "astrocommunity.colorscheme.nordic-nvim" },
   { import = "astrocommunity.color.vim-highlighter" },
