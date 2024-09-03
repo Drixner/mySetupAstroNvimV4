@@ -17,7 +17,6 @@ return {
   { import = "astrocommunity.editing-support.ultimate-autopair-nvim" },
   { import = "astrocommunity.editing-support.vim-visual-multi" },
   { import = "astrocommunity.pack.html-css" },
-  { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.completion.cmp-cmdline" },
   { import = "astrocommunity.motion.mini-bracketed" },
